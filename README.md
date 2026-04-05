@@ -18,8 +18,9 @@ The dashboard provides deep insights into order patterns, product demand, outlet
 Power BI (.pbix)
 Power Query for data cleaning and transformation
 DAX (Data Analysis Expressions) for calculated measures
-Data modeling with relationships
-📂 Dataset Overview
+Data modeling with relationships.
+
+<a href="https://github.com/jpkeerthik30-sudo/Blinkit-Sales-Analysis-Dashboard/blob/main/blinkit.xlsx"> Dataset</a>
 
 ## Objective
 
