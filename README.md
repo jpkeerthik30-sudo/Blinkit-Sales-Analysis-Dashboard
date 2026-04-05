@@ -22,9 +22,17 @@ Data modeling with relationships.
 
 <a href="https://github.com/jpkeerthik30-sudo/Blinkit-Sales-Analysis-Dashboard/blob/main/blinkit.xlsx"> Dataset</a>
 
+## The dataset typically includes:
+
+Orders and transactions
+Product categories and items
+Outlet/store details
+Sales amount and quantity
+Customer purchase behavior
+
 ## Objective
 
-## The objective of this project is to:
+### The objective of this project is to:
 
 Analyze sales and demand patterns
 Understand customer purchasing trends
@@ -32,27 +40,27 @@ Evaluate outlet performance
 Support business decisions with data-driven insights
 
 ## Business Questions
-## Sales Analysis
+### Sales Analysis
 What is the total sales revenue over time?
 Which months or periods show peak demand?
 What is the average order value?
-## Product & Category Insights
+### Product & Category Insights
 Which product categories generate the highest sales?
 What are the top-selling items?
 Which products have low demand and may need promotion?
-## Outlet Performance
+### Outlet Performance
 Which outlets generate the highest revenue?
 How does outlet size or location impact sales?
 Are there underperforming outlets?
-## Inventory & Demand
+### Inventory & Demand
 Which products are frequently purchased together?
 Are there stock-demand mismatches?
 Which items have consistent demand?
-## Customer Behavior
+### Customer Behavior
 What are the purchasing patterns of customers?
 Do customers prefer certain categories at specific times?
 Are there repeat purchase trends?
-## Business Growth
+### Business Growth
 Is the business showing consistent growth?
 What trends can help forecast future demand?
 Which areas should be prioritized for expansion?
