@@ -1,4 +1,4 @@
-# Blinkit-Sales-Analysis-Dashboard
+# Blinkit-Sales-Analysis-Dashboard-Using-PowerBI
 
 ## Project Description: 
 
